@@ -1,0 +1,38 @@
+.flex{
+    display: flex;
+    width:57vw;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-content{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight: bolder;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+    font-weight:bolder;
+    font-size: 13px;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+    display: table-header-group;
+}
+
+img{
+   cursor: pointer;
+}
